@@ -2,6 +2,7 @@ body{
     background-color:cornsilk;
 }
 
+/*typography*/
 h1{
     font-size: 40px;
     color:royalblue;
@@ -14,4 +15,13 @@ p{
     font-size: 16px;
     color:gray;
     line-height: 14px;
+}
+
+.button-links{
+    border-style: solid;
+    border-color:blue;
+    background-color:lightgoldenrodyellow;
+    border-width: 2px;
+    text-decoration: none;
+    color:black;
 }
