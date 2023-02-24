@@ -31,3 +31,18 @@ p{
     margin-top: 10px;
     text-align: center;
 }
+
+.button-alert{
+    border-style: double;
+    border-color:cornflowerblue;
+    background-color:lavender;
+    border-width: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    color:darkslateblue;
+    display: block;
+    width: 200px;
+    padding: 4px;
+    margin-top: 10px;
+    text-align: center;
+}
