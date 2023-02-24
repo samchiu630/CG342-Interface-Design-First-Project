@@ -1,12 +1,14 @@
 body{
     background-color:cornsilk;
 }
+
 h1{
     font-size: 40px;
     color:royalblue;
     font-style: italic;
     font-family: 'Cabin', sans-serif;
 }
+
 p{
     font-family: 'Quicksand', sans-serif;
     font-size: 16px;
