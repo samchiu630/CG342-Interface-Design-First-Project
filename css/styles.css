@@ -46,3 +46,22 @@ p{
     margin-top: 10px;
     text-align: center;
 }
+
+.top-banner{
+    height: 240px;
+    text-align: center;
+    padding-top: 110px;
+    background-color: lightblue;
+}
+
+.main-content{
+    width: 800px;
+    margin: 0px auto;
+    padding: 0 10px;
+}
+
+footer{
+    height: 100px;
+    padding: 10px 0;
+    text-align: center;
+}
