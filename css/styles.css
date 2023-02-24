@@ -14,13 +14,13 @@ p{
     font-family: 'Quicksand', sans-serif;
     font-size: 16px;
     color:gray;
-    line-height: 14px;
+    line-height: 28px;
 }
 
 .button-link{
     border-style: solid;
     border-color:blue;
-    background-color:lightgoldenrodyellow;
+    background-color:slateblue;
     border-width: 2px;
     text-decoration: none;
     color:black;
