@@ -47,6 +47,18 @@ p{
     text-align: center;
 }
 
+nav{
+    padding: 20px;
+}
+
+.nav-links{
+    list-style-type: none;
+}
+
+.nav-link li{
+    display: inline;
+}
+
 .top-banner{
     height: 240px;
     text-align: center;
