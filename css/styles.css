@@ -53,10 +53,19 @@ nav{
 
 .nav-links{
     list-style-type: none;
+    padding: 0px;
+    margin: 0px auto;
+    width: 200px;
+    text-align: center;
 }
 
 .nav-links li{
     display: inline;
+}
+
+.nav-links li a{
+    padding-left: 10px;
+    padding-right: 5px;
 }
 
 .top-banner{
