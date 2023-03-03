@@ -80,8 +80,9 @@ nav{
     text-align: center;
     padding-top: 110px;
     background-color: lightblue;
-    background-image: url("https://i.etsystatic.com/10064703/r/il/ba4162/2524619588/il_794xN.2524619588_iq0w.jpg");
+    background-image: url("https://cdn.donmai.us/original/ea/45/ea45b6c01336b176f4fb997d849e2a5c.jpg");
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .main-content{
