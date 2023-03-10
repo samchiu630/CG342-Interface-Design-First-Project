@@ -1,5 +1,5 @@
 body{
-    background-color:#edc7b7;
+    background-color:#eee2dc;
 }
 
 html {
@@ -8,15 +8,16 @@ html {
 
 /*typography*/
 h1{
-    font-size: 40px;
+    font-size: 60px;
     color:#123c69;
     font-family: 'Tilt Warp', cursive;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: white;
 }
 
 h2{
-    font-size: 30px;
+    font-size: 25px;
     color:#123c69;
-    font-style: italic;
     font-family: 'Tilt Warp', cursive;
     margin: 0 20px;
 }
@@ -70,7 +71,7 @@ nav{
     list-style-type: none;
     padding: 0px;
     margin: 0px auto;
-    width: 200px;
+    width: 300px;
     text-align: center;
 }
 
