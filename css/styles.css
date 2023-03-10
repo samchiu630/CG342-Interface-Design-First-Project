@@ -1,5 +1,5 @@
 body{
-    background-color:cornsilk;
+    background-color:#edc7b7;
 }
 
 html {
@@ -9,15 +9,23 @@ html {
 /*typography*/
 h1{
     font-size: 40px;
-    color:royalblue;
-    font-style: italic;
-    font-family: 'Cabin', sans-serif;
+    color:#123c69;
+    font-family: 'Tilt Warp', cursive;
 }
+
+h2{
+    font-size: 30px;
+    color:#123c69;
+    font-style: italic;
+    font-family: 'Tilt Warp', cursive;
+    margin: 0 20px;
+}
+
 
 p{
     font-family: 'Quicksand', sans-serif;
     font-size: 16px;
-    color:gray;
+    color:#123c69;
     line-height: 22px;
 }
 
@@ -55,7 +63,7 @@ nav{
     padding: 20px;
     position: fixed;
     width: 100%;
-    background-color:darksalmon;
+    background-color:#edc7b7;
 }
 
 .nav-links{
