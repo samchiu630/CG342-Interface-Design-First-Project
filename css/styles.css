@@ -24,7 +24,7 @@ h2{
 h3{
     font-size: 25px;
     color:#123c69;
-    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Alata', sans-serif;
 }
 
 
@@ -52,8 +52,8 @@ p{
 
 .button-alert{
     border-style: double;
-    border-color: lightgray;
-    background-color:#d6eadf;
+    border-color: silver;
+    background-color:#c6bdd9;
     border-width: 5px;
     border-radius: 5px;
     text-decoration: none;
