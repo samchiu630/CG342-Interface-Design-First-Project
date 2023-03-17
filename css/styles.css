@@ -24,7 +24,7 @@ h2{
 h3{
     font-size: 25px;
     color:#123c69;
-    font-family: 'Tilt Warp', cursive;
+    font-family: 'Comfortaa', cursive;
 }
 
 
@@ -37,8 +37,8 @@ p{
 
 .button-link{
     border-style: solid;
-    border-color:darkgray;
-    background-color:mistyrose;
+    border-color:lightgray;
+    background-color:#d1cfe2;
     border-width: 2px;
     border-radius: 15px;
     text-decoration: none;
@@ -52,8 +52,8 @@ p{
 
 .button-alert{
     border-style: double;
-    border-color:cornflowerblue;
-    background-color:lavender;
+    border-color: lightgray;
+    background-color:#d6eadf;
     border-width: 5px;
     border-radius: 5px;
     text-decoration: none;
@@ -129,25 +129,30 @@ img{
     }
 
     h1{
-        font-size: 30px;
-        color:royalblue;
-        font-style: italic;
-        font-family: 'Cabin', sans-serif;
-        margin: 0 20px;
+        font-size: 60px;
+        color:#123c69;
+        font-family: 'Tilt Warp', cursive;
+        -webkit-text-stroke-width: 0.5px;
+        -webkit-text-stroke-color: white;
     }
 
     h2{
-        font-size: 30px;
-        color:white;
-        font-style: italic;
-        font-family: 'Cabin', sans-serif;
-        margin: 0 20px;
+        font-size: 40px;
+        color:wheat;
+        font-family: 'Tilt Warp', cursive;
     }
-
+    
+    h3{
+        font-size: 25px;
+        color:wheat;
+        font-family: 'Comfortaa', cursive;
+    }    
+    
+    
     p{
-    font-family: 'Quicksand', sans-serif;
-    font-size: 14px;
-    color:gray;
-    line-height: 22px;
-}
+        font-family: 'Quicksand', sans-serif;
+        font-size: 16px;
+        color:lightgray;
+        line-height: 22px;
+    }
 }
